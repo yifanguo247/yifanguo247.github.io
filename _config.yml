@@ -7,8 +7,8 @@ url: "https://yifanguo247.github.io" # the base hostname & proocol for your site
 
 
  # Build settings
- theme: just-the-docs
- plugins:
+theme: just-the-docs
+plugins:
   - jekyll-feed
 
 color_scheme: dark
